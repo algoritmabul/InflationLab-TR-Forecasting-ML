@@ -122,7 +122,6 @@ flowchart TD
 
 | Dosya / klasör | Görevi |
 |---|---|
-| `enflasyon.py` | 🔒 2023 tarihli özgün referans; **değiştirilmez** |
 | `enflasyon_guncel.py` | ▶️ Güncel veriyle çalıştırılan ana betik |
 | `motorin_tarihleri_tamamlanmis.xlsx` | ⛽ Motorin tarihsel fiyat serisi |
 | `motorin_tarihleri_tamamlanmis_YEDEK.xlsx` | 🗄️ Önceki motorin verisi yedeği |

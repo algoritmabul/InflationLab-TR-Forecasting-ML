@@ -79,7 +79,7 @@ import pandas as pd
 import numpy as np
 warnings.filterwarnings("ignore")
 
-EVDS_KEY = 'A0wX7Cuh6F'
+EVDS_KEY = 'buraya evds key girilecek'
 
 def evds_get(seriler,startdate,enddate,frequency=5):
     """EVDS API sorgusu (evds3 uc noktasi): DataFrame dondurur (Tarih + deger kolonlari)."""

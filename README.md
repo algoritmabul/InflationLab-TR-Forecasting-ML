@@ -6,6 +6,10 @@
 
 **16 ekonomik gösterge · 7 regresyon modeli + LSTM · Prophet / SARIMAX · Senaryo tabanlı tahmin**
 
+![Python](https://img.shields.io/badge/Python-Time%20Series-111111?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7%20Regression%20%2B%20LSTM-333333?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-Prophet%20%7C%20SARIMAX-555555?style=flat-square)
+![Country](https://img.shields.io/badge/Focus-T%C3%BCrkiye-777777?style=flat-square)
 
 *Türkiye'nin aylık ve yıllık TÜFE enflasyonunu, makroekonomik gösterge tahminleriyle beslenen hibrit bir model üzerinden öngörmeye yönelik Python projesi.*
 
